@@ -1,4 +1,4 @@
-Creates a random sr25519 keypair -
+Connects to a node and shows some info -
 
 - clone repo
 - `yarn` (to install deps)
